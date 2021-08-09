@@ -18,26 +18,26 @@ https://techvidvan.com/tutorials/java-collection-framework/ 여기서 가져 왔
   - [X] Maven Starter Project  
   - [X] JUnit 5 dependency
 ---
-- Iterable &lt;&lt;interface>>
-  - Collection &lt;&lt;interface>>
-    -  Set &lt;&lt;interface>>
-      - [ ] HashSet
-      - [ ] LinkedHashSet
-      - [ ] SortedSet &lt;&lt;interface>>
-        - [ ] TreeSet
-    -  List &lt;&lt;interface>>
-      - AbstractList
-        - [X] ArrayList
-        - [ ] LinkedList
-        - [ ] Vector
-          - [ ] Stack
-    -  Queue &lt;&lt;interface>>
-      -  Deque &lt;&lt;interface>>
+- Iterable  
+  - Collection  
+    - Set  
+    - [ ] HashSet
+    - [ ] LinkedHashSet
+    - [ ] SortedSet  
+      - [ ] TreeSet
+    - List  
+    - AbstractList
+      - [X] ArrayList
+      - [ ] LinkedList
+      - [ ] Vector
+        - [ ] Stack
+    - Queue  
+      - Deque    
         - [ ] ArrayDeque
       - [ ] PriorityQueue
-- Map &lt;&lt;interface>>
-  - [ ] Hashtable
+- Map  
+  - [X] Hashtable
   - [ ] LinkedHashMap
   - [ ] HashMap
-  - SortedMap &lt;&lt;interface>>
+  - SortedMap  
     - [ ] TreeMap
