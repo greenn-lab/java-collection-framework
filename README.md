@@ -6,16 +6,38 @@
 그냥 영상으로 대체 할게요.
 
 ## 진행 방식
-차차 결정하기로...
+![](./collection-framework-hierarchy-in-java.webp)
+https://techvidvan.com/tutorials/java-collection-framework/ 여기서 가져 왔어요.  
+아주 훌륭한 분 이시더군요.  ~~이미지 가져왔으니까 이정도 공치사 쯤~~
+
+여기 나온 계층 구조를 하나하나 테스트 해 볼 생각이에요.
 
 ## Check List
-- [X] setup  
+- setup  
   - [X] VS Code  
   - [X] Maven Starter Project  
   - [X] JUnit 5 dependency
-- [ ] java.util.List
-  - [ ] ...  
-- [ ] java.util.Set  
-  - [ ] ...
-- [ ] java.util.Map
-  - [ ] ...
+---
+- Iterable &lt;&lt;interface>>
+  - Collection &lt;&lt;interface>>
+    -  Set &lt;&lt;interface>>
+      - [ ] HashSet
+      - [ ] LinkedHashSet
+      - [ ] SortedSet &lt;&lt;interface>>
+        - [ ] TreeSet
+    -  List &lt;&lt;interface>>
+      - AbstractList
+        - [X] ArrayList
+        - [ ] LinkedList
+        - [ ] Vector
+          - [ ] Stack
+    -  Queue &lt;&lt;interface>>
+      -  Deque &lt;&lt;interface>>
+        - [ ] ArrayDeque
+      - [ ] PriorityQueue
+- Map &lt;&lt;interface>>
+  - [ ] Hashtable
+  - [ ] LinkedHashMap
+  - [ ] HashMap
+  - SortedMap &lt;&lt;interface>>
+    - [ ] TreeMap
