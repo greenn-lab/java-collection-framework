@@ -20,7 +20,7 @@ class HashtableTest {
   void putAndPutAll() {
     final Hashtable<String, Number> numbers = new Hashtable<>();
     numbers.put("one", 1);
-
+//주석
     assertEquals(1, numbers.size());
 
     Map<String, Number> adds = new HashMap<>(3);
