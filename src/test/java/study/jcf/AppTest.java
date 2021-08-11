@@ -2,8 +2,6 @@ package study.jcf;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;
 
-import java.util.ArrayDeque;
-import java.util.Queue;
 import org.junit.jupiter.api.DisplayName;
 import org.junit.jupiter.api.Test;
 
