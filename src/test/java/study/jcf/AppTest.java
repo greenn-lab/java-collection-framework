@@ -13,7 +13,7 @@ class AppTest {
   @DisplayName("그냥 해 본 덧셈 테스트. 이렇게 테스트 작성해요.")
   void shouldRunWithoutError() {
     final int sum = app.sum(1, 2);
-    //요거 테스입니까?
+    
     assertEquals(3, sum);
   }
 
