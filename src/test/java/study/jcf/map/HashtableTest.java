@@ -1,4 +1,4 @@
-package study.jcf.list.map;
+package study.jcf.map;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;
 import static org.junit.jupiter.api.Assertions.assertFalse;
