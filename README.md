@@ -34,7 +34,7 @@ https://techvidvan.com/tutorials/java-collection-framework/ 여기서 가져 왔
     - Queue  
       - Deque    
         - [ ] ArrayDeque
-      - [ ] PriorityQueue
+      - [X] PriorityQueue
 - Map  
   - [X] Hashtable
   - [ ] LinkedHashMap
