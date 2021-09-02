@@ -21,7 +21,7 @@ https://techvidvan.com/tutorials/java-collection-framework/ 여기서 가져 왔
 - Iterable  
   - Collection  
     - Set  
-    - [ ] HashSet
+    - [X] HashSet
     - [ ] LinkedHashSet
     - [ ] SortedSet  
       - [ ] TreeSet
