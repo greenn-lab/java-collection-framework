@@ -33,11 +33,11 @@ https://techvidvan.com/tutorials/java-collection-framework/ 여기서 가져 왔
         - [ ] Stack
     - Queue  
       - Deque    
-        - [ ] ArrayDeque
+        - [X] ArrayDeque
       - [X] PriorityQueue
 - Map  
   - [X] Hashtable
   - [ ] LinkedHashMap
-  - [ ] HashMap
+  - [X] HashMap
   - SortedMap  
     - [ ] TreeMap
