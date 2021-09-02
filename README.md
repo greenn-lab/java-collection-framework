@@ -28,7 +28,7 @@ https://techvidvan.com/tutorials/java-collection-framework/ 여기서 가져 왔
     - List  
     - AbstractList
       - [X] ArrayList
-      - [ ] LinkedList
+      - [X] LinkedList
       - [ ] Vector
         - [ ] Stack
     - Queue  
