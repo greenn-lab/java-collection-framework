@@ -24,7 +24,7 @@ https://techvidvan.com/tutorials/java-collection-framework/ 여기서 가져 왔
     - [X] HashSet
     - [ ] LinkedHashSet
     - [ ] SortedSet  
-      - [ ] TreeSet
+      - [X] TreeSet
     - List  
     - AbstractList
       - [X] ArrayList
