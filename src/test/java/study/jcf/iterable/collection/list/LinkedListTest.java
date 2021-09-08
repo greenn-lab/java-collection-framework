@@ -9,6 +9,9 @@ import java.util.LinkedList;
 
 class LinkedListTest {
 
+  // 필독!
+  // https://www.holaxprogramming.com/2014/02/12/java-list-interface/
+
     @Test
     @DisplayName("LinkedList 데이터 가져오는 메소드들")
     void test() {

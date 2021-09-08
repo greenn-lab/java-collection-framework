@@ -22,22 +22,22 @@ https://techvidvan.com/tutorials/java-collection-framework/ 여기서 가져 왔
   - Collection  
     - Set  
     - [X] HashSet
-    - [ ] LinkedHashSet
-    - [ ] SortedSet  
+    - [X] LinkedHashSet
+    - SortedSet  
       - [X] TreeSet
     - List  
     - AbstractList
       - [X] ArrayList
       - [X] LinkedList
-      - [ ] Vector
-        - [ ] Stack
+      - [X] Vector
+        - [X] Stack
     - Queue  
       - Deque    
         - [X] ArrayDeque
       - [X] PriorityQueue
 - Map  
   - [X] Hashtable
-  - [ ] LinkedHashMap
+  - [X] LinkedHashMap
   - [X] HashMap
   - SortedMap  
-    - [ ] TreeMap
+    - [X] TreeMap
